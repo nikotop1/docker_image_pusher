@@ -1,2 +1,3 @@
 chat2db/chat2db:latest
 postgres:13
+postgres:11
